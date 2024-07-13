@@ -28,7 +28,7 @@ Convert the raw data into processed data by the following command:
 python src/data_preprocessing.py
 ```
 
-### 5. Train the ML Mopdel
+### 5. Train the ML Model
 
 Train the Model on the processed data using the command:
 
