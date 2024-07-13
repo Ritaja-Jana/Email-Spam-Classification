@@ -20,7 +20,23 @@ Ensure you have Python and pip installed. Then, install the required packages:
 pip install -r requirements.txt
 ```
 
-### 3. Run the Flask application:
+### 4. Preprocess the Raw Data:
+
+Convert the raw data into processed data by the following command:
+
+```bash
+python src/data_preprocessing.py
+```
+
+### 5. Train the ML Mopdel
+
+Train the Model on the processed data using the command:
+
+```bash
+python src/model_training.py
+```
+
+### 6. Run the Flask application:
 
 Execute the following command to start the Flask web server:
 
@@ -28,7 +44,7 @@ Execute the following command to start the Flask web server:
 python src/app.py
 ```
 
-### 4. Open your web browser and go to http://localhost:5000 to use the application.
+### 7. Open your web browser and go to http://localhost:5000 to use the application.
 
 ## Model Training
 
