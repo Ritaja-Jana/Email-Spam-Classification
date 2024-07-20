@@ -58,6 +58,11 @@ python src/app.py
 
 2. Click on "Classify Email" to see whether the email is predicted as "Spam" or "Not Spam".
 
+## Image
+
+![Error: Image can't be loaded!]([path/to/image](https://github.com/Ritaja-Jana/Email-Spam-Classification/blob/main/Image.png))
+
+
 ## Example of Spam Emails:
 
 
