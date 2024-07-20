@@ -60,7 +60,8 @@ python src/app.py
 
 ## Image
 
-![Error: Image can't be loaded!]([path/to/image](https://github.com/Ritaja-Jana/Email-Spam-Classification/blob/main/Image.png))
+![Error: Image can't be loaded!](https://github.com/Ritaja-Jana/Email-Spam-Classification/blob/main/Image.png)
+
 
 
 ## Example of Spam Emails:
